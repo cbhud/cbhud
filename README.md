@@ -1,11 +1,10 @@
 <h1 align="center">
-Hi there, EhsanMNA is here ❄
+Hi there,
 </h1>
 
 <div>
   <div>
-    - 💻 Minecraft & java developer<br>
-    - 🔮 Web designer <br>
+    - 💻 Java Developer<br>
   </div>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cbhud&title_color=33dd33&count_private=true&show_icons=true&theme=dark"/>
@@ -13,7 +12,7 @@ Hi there, EhsanMNA is here ❄
 
 <h2>Projects</h2>
 <h3>Minecraft</h3>
-I've been working with minecraft plugins for years and recently started working on a open source project - MenuMine.
+I've been working with minecraft plugins for years and recently started working on a open source project - Castle Siege.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cbhud&repo=Castle-Siege&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/cbhud/Castle-Siege/)
 
