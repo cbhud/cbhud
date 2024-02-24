@@ -8,14 +8,14 @@ Hi there, EhsanMNA is here ❄
     - 🔮 Web designer <br>
   </div>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EhsanMNA&title_color=33dd33&count_private=true&show_icons=true&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cbhud&title_color=33dd33&count_private=true&show_icons=true&theme=dark"/>
 </div>
 
 <h2>Projects</h2>
 <h3>Minecraft</h3>
 I've been working with minecraft plugins for years and recently started working on a open source project - MenuMine.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=MenuMine&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/MenuMine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cbhud&repo=Castle-Siege&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/cbhud/Castle-Siege/)
 
   ## Technologies and Tools I use:
   
@@ -28,4 +28,4 @@ I've been working with minecraft plugins for years and recently started working 
 🤝 Connect with me:
 </h2>
 
-<img alt="Discord" title="Discord" height="18" width="18" src="https://cdn.simpleicons.org/discord"></a> Discord: <a href="">@ehsanmna</a> (known as EhsanMNA#0252)
+<img alt="Discord" title="Discord" height="18" width="18" src="https://cdn.simpleicons.org/discord"></a> Discord: <a href="">@cbhud</a>
