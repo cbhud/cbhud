@@ -1,13 +1,13 @@
 # 💫 About Me:
 <br>I'm activley looking for internship
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhot) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![CS]([<img src="https://images.polymart.org/resource/6916/default.jpg" width="480" alt="Download ✪ Castle Siege on Polymart.org" title="Download ✪ Castle Siege on Polymart.org">](https://polymart.org/resource/castle-siege.6916?utm_source=product-materials-image&utm_medium=referral&utm_campaign=product-6916-materials-image-default&utm_content=product-6916-user-34714-markdown))
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+# Projects:
+![]([<img src="https://images.polymart.org/resource/6916/default.jpg" width="480" alt="Download ✪ Castle Siege on Polymart.org" title="Download ✪ Castle Siege on Polymart.org">](https://polymart.org/resource/castle-siege.6916?utm_source=product-materials-image&utm_medium=referral&utm_campaign=product-6916-materials-image-default&utm_content=product-6916-user-34714-markdown))
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cbhud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cbhud&theme=tokyonight&hide_border=false)<br/>
