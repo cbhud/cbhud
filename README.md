@@ -11,4 +11,4 @@
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbhud&show_icons=true&theme=tokyonight&locale=en" alt="cbhud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbhud&show_icons=true&theme=dark&locale=en" alt="cbhud" /></p>
