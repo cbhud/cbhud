@@ -1,27 +1,8 @@
-# 💫 About Me:
+# Projects:
 
-
-
-<br>I'm activley looking for internship
-
-
-
-
-
-## 🌐 Socials:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhot) 
-
-
-
-
-
-# 💻 Tech Stack:
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-
+![www.spigotmc.org/resources/authors/exzonepvp.408550/](https://img.shields.io/badge/SpigotMc-black?style=for-the-badge&logo=spigotmc)![https://www.spigotmc.org/resources/castle-siege-king-teams-kits-abilities-coins-stats-map-regeneration-more.115123/](https://img.shields.io/spiget/downloads/115123?style=for-the-badge&logo=spigotmc&color=orange)![https://www.spigotmc.org/resources/castle-siege-king-teams-kits-abilities-coins-stats-map-regeneration-more.115123/](https://img.shields.io/spiget/stars/115123?style=for-the-badge&logo=spigotmc)
+![https://modrinth.com/user/cbhud](https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth)
+![https://modrinth.com/plugin/castlesiege](https://img.shields.io/modrinth/dt/qciYBDg7?style=for-the-badge&logo=modrinth)
 
 
 
