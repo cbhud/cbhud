@@ -9,7 +9,7 @@ I build performant tools and digital experiences — from Minecraft game plugins
 ## 🔧 Featured Projects
 
 ### 🎮 CastleSiege  
-Minecraft mini-game plugin with more than 4000+ downloads.
+Minecraft mini-game plugin with more than 4000+ downloads.<br>
 [![](https://img.shields.io/badge/SpigotMc-black?style=for-the-badge&logo=spigotmc)](https://spigotmc.org/resources/authors/exzonepvp.408550)
 [![](https://img.shields.io/spiget/downloads/115123?style=for-the-badge&logo=spigotmc&color=orange)](https://spigotmc.org/resources/castle-siege-king-teams-kits-abilities-coins-stats-map-regeneration-more.115123)
 [![](https://img.shields.io/spiget/stars/115123?style=for-the-badge&logo=spigotmc)](https://spigotmc.org/resources/castle-siege-king-teams-kits-abilities-coins-stats-map-regeneration-more.115123)<br>
