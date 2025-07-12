@@ -1,5 +1,5 @@
-# Hello World 👋  
-### Java · Web · Minecraft Plugin Developer  
+# Hello World,  
+### I'm a Java · Web · Minecraft Plugin Developer  
 
 I build performant tools and digital experiences — from Minecraft game plugins to fullstack web apps.  
 🌐 [Portfolio → cbhud.studio](https://cbhud.studio)
@@ -29,12 +29,6 @@ A PHP-based e-commerce site fully functional built for local business.
 | PHP               | PHP                                                            | 
 | Web Frontend      | Vue.js, SPA apps, responsive design                            |
 | Minecraft Plugins | Spigot API, combat logic, map systems, coins & kits            |
-| Extra             | Student/academic projects, UI/UX prototyping                   |
-
----
-
-## 📈 GitHub Stats  
-![cbhud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbhud&show_icons=true&theme=dark)
 
 ---
 
