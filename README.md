@@ -1,12 +1,10 @@
 # Hello World,  
-### I'm a Java · Web · Minecraft Plugin Developer  
 
-I build performant tools and digital experiences — from Minecraft game plugins to fullstack web apps.  
-🌐 [Portfolio → cbhud.studio](https://cbhud.studio)
+🌐 [Portfolio → cbhud.software](https://cbhud.software)
 
 ---
 
-## 🔧 Featured Projects
+## 🔧 Projects
 
 ### 🎮 CastleSiege  
 Minecraft mini-game plugin with more than 4000+ downloads.<br>
