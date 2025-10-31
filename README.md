@@ -1,7 +1,3 @@
-
-## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amerhott17@gmail.com) 
-
 ## 👨🏽‍💻 Portfolio: http://cbhud.software
 
 ## 🔧 Projects
@@ -24,4 +20,5 @@ Minecraft plugin with more than 5000+ downloads.<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=cbhud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cbhud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amerhott17@gmail.com) 
